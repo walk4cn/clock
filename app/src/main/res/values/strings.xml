@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">悬浮时钟</string>
+    <string name="preview_sample">12:34:56.7</string>
+    <string name="notif_channel">悬浮时钟服务</string>
+    <string name="notif_title">悬浮时钟运行中</string>
+    <string name="notif_text">点按打开设置</string>
+    <string name="status_granted">悬浮窗权限：已授予 ✓</string>
+    <string name="status_denied">悬浮窗权限：未授予，点“启动悬浮时钟”去授权</string>
+    <string name="label_text_size">文字大小</string>
+    <string name="label_bg_alpha">背景不透明度</string>
+    <string name="label_text_color">文字颜色</string>
+    <string name="text_size_value">%1$d sp</string>
+    <string name="bg_alpha_value">%1$d%%</string>
+    <string name="sw_tenths">显示 0.1 秒</string>
+    <string name="sw_frame">按屏幕帧率刷新（更顺滑）</string>
+    <string name="sw_24h">24 小时制</string>
+    <string name="btn_start">启动悬浮时钟</string>
+    <string name="btn_stop">关闭悬浮时钟</string>
+    <string name="btn_settings">设置</string>
+    <string name="btn_close">关闭</string>
+    <string name="started">悬浮时钟已启动</string>
+    <string name="need_overlay_permission">需要先授予“显示在其他应用上层”权限</string>
+    <string name="hint">提示：拖动时钟可移动位置；单击时钟可展开/收起“设置、关闭”按钮。</string>
+</resources>
